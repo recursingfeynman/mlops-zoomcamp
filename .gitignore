@@ -1,6 +1,12 @@
 # Project-related files
+mlops-zoomcamp/
 data/
-**/*.b
+.b
+
+# MLFlow artifacts
+artifacts/
+mlartifacts/
+*.db
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
