@@ -1,7 +1,7 @@
 # Project-related files
 mlops-zoomcamp/
 data/
-.b
+*.b
 
 # MLFlow artifacts
 artifacts/
